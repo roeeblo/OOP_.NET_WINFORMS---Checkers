@@ -1,0 +1,22 @@
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\GameUI\bin\Debug\GameUI.exe.config
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\GameUI\bin\Debug\GameUI.exe
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\GameUI\bin\Debug\GameUI.pdb
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\GameUI\bin\Debug\CheckersLogics.dll
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\GameUI\bin\Debug\CheckersLogics.pdb
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\GameUI\bin\Debug\CheckersLogics.dll.config
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\GameUI\obj\Debug\GameUI.csproj.AssemblyReference.cache
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\GameUI\obj\Debug\GameUI.csproj.Up2Date
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\GameUI\obj\Debug\GameUI.exe
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\GameUI\obj\Debug\GameUI.pdb
+D:\MyGitHubProjects\OOP-Checkers\GameUI\bin\Debug\GameUI.exe.config
+D:\MyGitHubProjects\OOP-Checkers\GameUI\bin\Debug\GameUI.exe
+D:\MyGitHubProjects\OOP-Checkers\GameUI\bin\Debug\GameUI.pdb
+D:\MyGitHubProjects\OOP-Checkers\GameUI\bin\Debug\CheckersLogics.dll
+D:\MyGitHubProjects\OOP-Checkers\GameUI\bin\Debug\CheckersLogics.pdb
+D:\MyGitHubProjects\OOP-Checkers\GameUI\bin\Debug\CheckersLogics.dll.config
+D:\MyGitHubProjects\OOP-Checkers\GameUI\obj\Debug\GameUI.csproj.AssemblyReference.cache
+D:\MyGitHubProjects\OOP-Checkers\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+D:\MyGitHubProjects\OOP-Checkers\GameUI\obj\Debug\GameUI.csproj.Up2Date
+D:\MyGitHubProjects\OOP-Checkers\GameUI\obj\Debug\GameUI.exe
+D:\MyGitHubProjects\OOP-Checkers\GameUI\obj\Debug\GameUI.pdb

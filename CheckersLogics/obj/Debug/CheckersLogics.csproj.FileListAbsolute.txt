@@ -1,0 +1,14 @@
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\CheckersLogics\bin\Debug\CheckersLogics.dll.config
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\CheckersLogics\bin\Debug\CheckersLogics.dll
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\CheckersLogics\bin\Debug\CheckersLogics.pdb
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\CheckersLogics\obj\Debug\CheckersLogics.csproj.AssemblyReference.cache
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\CheckersLogics\obj\Debug\CheckersLogics.csproj.CoreCompileInputs.cache
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\CheckersLogics\obj\Debug\CheckersLogics.dll
+G:\My Drive\School\Year 3\C# .NET\Assign5\Ex05 Oren 318901303 Roee 318846722\CheckersLogics\obj\Debug\CheckersLogics.pdb
+D:\MyGitHubProjects\OOP-Checkers\CheckersLogics\bin\Debug\CheckersLogics.dll.config
+D:\MyGitHubProjects\OOP-Checkers\CheckersLogics\bin\Debug\CheckersLogics.dll
+D:\MyGitHubProjects\OOP-Checkers\CheckersLogics\bin\Debug\CheckersLogics.pdb
+D:\MyGitHubProjects\OOP-Checkers\CheckersLogics\obj\Debug\CheckersLogics.csproj.AssemblyReference.cache
+D:\MyGitHubProjects\OOP-Checkers\CheckersLogics\obj\Debug\CheckersLogics.csproj.CoreCompileInputs.cache
+D:\MyGitHubProjects\OOP-Checkers\CheckersLogics\obj\Debug\CheckersLogics.dll
+D:\MyGitHubProjects\OOP-Checkers\CheckersLogics\obj\Debug\CheckersLogics.pdb
