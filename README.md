@@ -1,6 +1,7 @@
 # Checkers Game - using OOP .NET WinForms
 
 
+## Overview
 
 This is a Checkers game built using .NET WinForms and designed with Object-Oriented Programming (OOP) principles. The project is divided into two main components:
 
