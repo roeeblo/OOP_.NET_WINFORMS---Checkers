@@ -11,6 +11,13 @@ The project is divided into two main components:
 ### • **Backend (CheckersLogic)**: Handles the game logic, rules, and board management
 ### • **Frontend (GameUI)**: Manages the user interface, including the game board, player interactions, and settings.
 
+## Features
+### • **Play Against Computer**: Challenge a simple AI opponent for single-player mode.
+### • **Two-Player Checkers**: Play against another player on the same machine.
+### • **Game Rules Enforcement**: The backend ensures all moves follow standard Checkers rules.
+### • **Dynamic UI**: The frontend provides an interactive and responsive game board.
+### • **Settings**: The players can each choose their name and icon to represent them.
+
 ---
 
 Game can be played against a **computer**, or against your friend.
