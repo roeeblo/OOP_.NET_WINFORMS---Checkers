@@ -8,8 +8,8 @@ This is a Checkers game built using .NET WinForms and designed with Object-Orien
 
 The project is divided into two main components:
 
-#### • **Backend (CheckersLogic)**: #### Handles the game logic, rules, and board management
-#### • **Frontend (GameUI)**: #### Manages the user interface, including the game board, player interactions, and settings.
+### • **Backend (CheckersLogic)**: ### Handles the game logic, rules, and board management
+### • **Frontend (GameUI)**: ### Manages the user interface, including the game board, player interactions, and settings.
 
 ## Features
 ### • **Play Against Computer**: Challenge a simple AI opponent for single-player mode.
