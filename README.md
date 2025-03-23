@@ -19,6 +19,4 @@ The project is divided into two main components:
 ### • **Settings**: The players can each choose their name and icon to represent them.
 
 ---
-
-Game can be played against a **computer**, or against your friend.
 Despite the simplicity of the classic Checkers game, we built a hands-down project from scratch. Every class was designed accordingly and properly separated, ensuring a clean OOP architecture that’s easy to maintain and extend
