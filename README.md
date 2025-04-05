@@ -1,4 +1,4 @@
-# Checkers Game - using OOP .NET WinForms
+# Checkers Game - OOP .NET WinForms
 
 ![image](https://github.com/user-attachments/assets/d0d65c4a-7d9f-4490-892e-9284361f0782)
 
