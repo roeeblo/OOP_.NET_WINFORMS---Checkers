@@ -19,4 +19,4 @@ The project is divided into two main components, using two diffrent projects wit
 - **Settings**: The players can each choose their name and icon to represent them, as well as pick the board size
 
 ---
-Despite the simplicity of the classic Checkers game, we built a hands-down project from scratch. Every class was designed accordingly and properly separated, ensuring a clean OOP architecture that’s easy to maintain and extend
+Despite the simplicity of the classic Checkers game, I built a hands-down project from scratch. Every class was designed accordingly and properly separated, ensuring a clean OOP architecture that’s easy to maintain and extend
